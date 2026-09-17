@@ -132,7 +132,7 @@ Collection-Manipulator/
 │
 ├── stud_manage_system_if_else.py
 └── README.md
-
+```
 
 🖥️ SAMPLE OUTPUT
 
